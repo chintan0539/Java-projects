@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Register</title>
+</head>
+<body>
+<form action="login.jsp" method="post">
+	First-Name:<input type="text" name="fnm"/> <br>
+	Last-Name:<input type="text" name="lnm"/> <br>
+	E-mail:<input type="email" name="mail"/> <br>
+	Password:<input type="password" name="password"/> <br>
+	<input type="submit"/>
+</form>
+</body>
+</html>

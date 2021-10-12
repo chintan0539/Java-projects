@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+D:\IG jv\jsp_proj\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4183049704.index
+\jsp_proj\src
+D:\IG jv\jsp_proj\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\753755742.index
+\jsp_proj\src
+D:\IG jv\jsp_proj\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3021219178.index
+\jsp_proj\src

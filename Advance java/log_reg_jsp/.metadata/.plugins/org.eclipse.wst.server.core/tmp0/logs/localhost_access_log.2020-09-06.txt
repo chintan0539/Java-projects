@@ -1,0 +1,10 @@
+127.0.0.1 - - [06/Sep/2020:13:54:31 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Sep/2020:13:54:32 +0530] "GET /reg_log/WEB-INF/register.html HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [06/Sep/2020:13:54:51 +0530] "GET /reg_log/WEB-INF/register.html HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [06/Sep/2020:13:55:11 +0530] "GET /reg_log/ HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [06/Sep/2020:13:56:03 +0530] "GET /reg_log/WEB-INF/register.html HTTP/1.1" 404 682
+127.0.0.1 - - [06/Sep/2020:13:59:24 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Sep/2020:13:59:24 +0530] "GET /reg_log/WEB-INF/register.html HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [06/Sep/2020:13:59:40 +0530] "GET /reg_log/register.html HTTP/1.1" 404 776
+0:0:0:0:0:0:0:1 - - [06/Sep/2020:14:00:53 +0530] "GET /reg_log/register.html HTTP/1.1" 200 402
+0:0:0:0:0:0:0:1 - - [06/Sep/2020:14:01:17 +0530] "POST /reg_log/register.jsp HTTP/1.1" 200 29

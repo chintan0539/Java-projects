@@ -1,0 +1,14 @@
+127.0.0.1 - - [26/Sep/2020:21:37:06 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:21:37:09 +0530] "GET /libraryManagement/issueBook.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:21:37:09 +0530] "GET /libraryManagement/login.jsp HTTP/1.1" 200 291
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:21:37:19 +0530] "GET /libraryManagement/login2.jsp?username=chintan&password=chintan HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:21:37:19 +0530] "GET /libraryManagement/index.jsp HTTP/1.1" 200 1966
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:21:37:25 +0530] "GET /libraryManagement/issueBook.jsp HTTP/1.1" 200 1850
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:21:38:19 +0530] "GET /libraryManagement/issueBook2.jsp?tid=1&tdate=22%2F7%2F2020&memberno=123&duedate=30%2F7%2F2020&bookid=1 HTTP/1.1" 200 21
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:21:39:04 +0530] "GET /libraryManagement/issueBook2.jsp?tid=1&tdate=22%2F7%2F2020&memberno=123&duedate=30%2F7%2F2020&bookid=1 HTTP/1.1" 200 14
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:21:40:25 +0530] "GET /libraryManagement/issueBook.jsp HTTP/1.1" 200 1850
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:21:41:05 +0530] "GET /libraryManagement/issueBook2.jsp?tid=1&tdate=2020-07-20&memberno=123&duedate=2020-07-30&bookid=1 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:21:41:05 +0530] "GET /libraryManagement/issueBook.jsp HTTP/1.1" 200 1850
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:21:42:46 +0530] "GET /libraryManagement/issueBook2.jsp?tid=1&tdate=2020-01-01&memberno=222&duedate=2020-01-10&bookid=1 HTTP/1.1" 200 14
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:21:43:13 +0530] "GET /libraryManagement/issueBook2.jsp?tid=2&tdate=2020-01-01&memberno=222&duedate=2020-01-10&bookid=1 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:21:43:13 +0530] "GET /libraryManagement/issueBook.jsp HTTP/1.1" 200 1850

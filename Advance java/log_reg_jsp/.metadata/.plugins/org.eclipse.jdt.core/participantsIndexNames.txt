@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\IG jv\log_reg_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\536816525.index
+\reg_log\src
+D:\IG jv\log_reg_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3824610146.index
+\reg_log\src

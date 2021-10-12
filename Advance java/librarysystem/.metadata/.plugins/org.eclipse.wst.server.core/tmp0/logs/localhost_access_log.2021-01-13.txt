@@ -1,0 +1,11 @@
+127.0.0.1 - - [13/Jan/2021:11:23:30 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Jan/2021:11:23:39 +0530] "GET /libraryManagement/index.jsp HTTP/1.1" 200 2290
+0:0:0:0:0:0:0:1 - - [13/Jan/2021:11:23:52 +0530] "GET /libraryManagement/addBook.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Jan/2021:11:23:52 +0530] "GET /libraryManagement/login.jsp HTTP/1.1" 200 291
+0:0:0:0:0:0:0:1 - - [13/Jan/2021:11:24:14 +0530] "GET /libraryManagement/login2.jsp?username=chintan&password=chintan HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Jan/2021:11:24:14 +0530] "GET /libraryManagement/login2.jsp?username=chintan&password=chintan HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Jan/2021:11:24:14 +0530] "GET /libraryManagement/index.jsp HTTP/1.1" 200 2290
+0:0:0:0:0:0:0:1 - - [13/Jan/2021:11:24:18 +0530] "GET /libraryManagement/addBook.jsp HTTP/1.1" 200 2565
+0:0:0:0:0:0:0:1 - - [13/Jan/2021:11:24:30 +0530] "GET /libraryManagement/addMember.jsp HTTP/1.1" 200 2430
+0:0:0:0:0:0:0:1 - - [13/Jan/2021:11:24:32 +0530] "GET /libraryManagement/issueBook.jsp HTTP/1.1" 200 2878
+0:0:0:0:0:0:0:1 - - [13/Jan/2021:11:24:33 +0530] "GET /libraryManagement/returnBook.jsp HTTP/1.1" 200 2732
